@@ -1,0 +1,11 @@
+Vite как основной инструмент - https://vite-docs-ru.vercel.app/guide/#быстрое-развёртывание-вашего-vite-проекта-scaffolding
+
+Ссылки на использованные изображения:
+1. <a href="https://ru.freepik.com/free-photo/water-stream-surrounded-by-mountains-and-flowers-on-a-sunny-day_13006860.htm#fromView=search&page=1&position=23&uuid=31141f06-5df3-47d3-adfa-cd5d81f5929f">Изображение от wirestock</a> на Freepik
+2. <a href="https://ru.freepik.com/free-photo/breathtaking-shot-of-beautiful-stones-under-turquoise-water-of-a-lake-and-hills-in-the-background_10111649.htm#fromView=search&page=1&position=3&uuid=224010b7-c8f5-4e72-8c57-c93153034900">Изображение от wirestock</a> на Freepik
+3. <a href="https://ru.freepik.com/free-photo/mountains-landscape-with-cedar-forest_1631075.htm#fromView=search&page=1&position=36&uuid=224010b7-c8f5-4e72-8c57-c93153034900">Изображение от bearfotos</a> на Freepik
+4. <a href="https://fonwall.ru/wallpaper/sonoma-coast-state-park-state-of-california-sea-hbqv/">Изображение от 78999437</a> на Fonwall
+5. <a href="https://fonwall.ru/wallpaper/landscape-wallpaper-landscapes-xyok/">Изображение от axebourne</a> на Fonwall
+6. <a href="https://fonwall.ru/wallpaper/sun-beams-summer-road-through-the-forest/">Изображение от viola</a> на Fonwall
+7. <a href="https://fonwall.ru/wallpaper/sunlight-trees-landscape-forest-krpd/">Изображение от jorik</a> на Fonwall
+8. <a href="https://fonwall.ru/wallpaper/landscape-sundown-sea-blvu/">Изображение от ya1702480368002</a> на Fonwall
