@@ -1,3 +1,7 @@
+### Результат тестовый [здесь](https://web-art-gallery-gjtc9d5yy-kalliactos-projects.vercel.app)
+![image](https://github.com/Kalliacto/WebArt-Gallery-TS-/assets/98468178/b2cbf79c-ff2f-41dc-ab48-46e26c4fc6d6)
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
