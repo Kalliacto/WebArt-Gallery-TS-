@@ -1,6 +1,6 @@
 import s from './index.module.scss';
 import cn from 'classnames';
-import { Photo, CommonClassProps } from '../types';
+import { CommonClassProps } from '../types';
 
 interface NavigationProps extends CommonClassProps {
     disabledPrev?: boolean;
